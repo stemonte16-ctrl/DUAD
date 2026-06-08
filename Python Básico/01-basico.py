@@ -1,0 +1,12 @@
+print("Hello this is my first Python program")
+print("I am learning with lyfter")
+print("I am very excited because i am learning Python")
+print("Hello world")
+
+print(2 + 4)
+print(2 - 8)
+print(2 / 8)
+print(2 * 8)
+print(3 ** 2)
+print(10 // 3)
+print(10 % 3)

@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "steven",
+        "edad": 28,
+        "pais": "costa rica",
+        "hombre": true
+    },
+    {
+        "nombre": "nayu",
+        "edad": 30,
+        "pais": "irlanda",
+        "hombre": false
+    },
+    {
+        "nombre": "paula",
+        "edad": 30,
+        "pais": "costa rica",
+        "hombre": false
+    },
+    {
+        "nombre": "johan",
+        "edad": 34,
+        "pais": "costa rica",
+        "hombre": true
+    }
+]

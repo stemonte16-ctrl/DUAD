@@ -1,0 +1,6 @@
+hola
+como
+estas
+¡Hola, mundo!
+¡Bienvenido a Python!
+buenos dias
